@@ -10,3 +10,8 @@ Features created only by me:
 - i've changed card images to ones with better resolution to look better when resized
 - buttons locking after cards draw to avoid changing bet_value during the game
 - money_add button for testing purposes
+
+Instruction:
+1. Set bet value
+2.  Lock bet value
+3.  Start a game and win tons of virtual cash!
